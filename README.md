@@ -6,6 +6,7 @@ Guides:
 
 -   [💻 Dev Environment Setup](https://github.com/FreddyWordingham/guide-Dev_environment_setup)
 -   [🌐 Static Websites](https://github.com/FreddyWordingham/Guide-Static_Websites)
+-   [🐍 Python Packages](https://github.com/FreddyWordingham/Guide-Python_Packages)
 
 Simulations:
 
