@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-🦮 Guides:
+Guides:
 
 -   [💻 Dev Environment Setup](https://github.com/FreddyWordingham/guide-Dev_environment_setup)
 -   [🌐 Static Websites](https://github.com/FreddyWordingham/Guide-Static_Websites)
