@@ -1,6 +1,6 @@
 <table width="100%">
-<tr width="100%">
-<td width="50%">
+<tr>
+<td>
 
 Guides 🦮:
 
@@ -15,7 +15,7 @@ Simulations 🌌:
 -   [Electro Encephalography 🧠](https://github.com/FreddyWordingham/brain_wave)
 
 </td>
-<td width="50%">
+<td>
 
 Games 👾:
 
