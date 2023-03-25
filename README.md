@@ -23,7 +23,7 @@ Games:
 
 Toys:
 
--   [🔲 Game of Life](https://github.com/FreddyWordingham/Nebula)
+-   [✨ Nebula](https://github.com/FreddyWordingham/Nebula)
 -   [🎆 Mandelbrot](https://github.com/FreddyWordingham/Mandelbrot)
 
 <!-- Utility:
