@@ -9,6 +9,7 @@ Guides:
 -   [🐍 Python Packages](https://github.com/FreddyWordingham/Guide-Python_Packages)
 -   [📔 Jupyter Notebooks](https://github.com/FreddyWordingham/Guide-Jupyter_Notebooks)
 -   [📬 FastAPI Web Framework](https://github.com/FreddyWordingham/Guide-FastAPI_Web_Framework)
+-   [🦀 Rust Crates](https://github.com/FreddyWordingham/Guide-Rust_Crates)
 
 Simulations:
 
