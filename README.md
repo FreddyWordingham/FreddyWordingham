@@ -14,10 +14,6 @@ Guides:
 </td>
 <td>
 
-Libraries:
-
--   [🛠️ ARCTK](https://github.com/FreddyWordingham/ARCTK)
-
 Simulations:
 
 -   [📸 Rendering Engine](https://github.com/FreddyWordingham/Antler)
@@ -30,6 +26,10 @@ Simulations:
 
 </td>
 <td>
+
+Libraries:
+
+-   [🛠️ ARCTK](https://github.com/FreddyWordingham/ARCTK)
 
 Games:
 
