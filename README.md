@@ -11,6 +11,9 @@ Guides:
 -   [📬 FastAPI Web Framework](https://github.com/FreddyWordingham/Guide-FastAPI_Web_Framework)
 -   [🦀 Rust Crates](https://github.com/FreddyWordingham/Guide-Rust_Crates)
 
+</td>
+<td>
+
 Simulations:
 
 -   [📸 Rendering Engine](https://github.com/FreddyWordingham/Antler)
