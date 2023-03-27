@@ -19,7 +19,7 @@ Simulations:
 -   [📸 Rendering Engine](https://github.com/FreddyWordingham/Antler)
 -   [🌈 Monte Carlo radiative transfer](https://github.com/FreddyWordingham/MCRT)
 -   [🎲 Neutron Scattering](https://github.com/FreddyWordingham/Neutron)
--   [💫 N-Body](https://github.com/FreddyWordingham/Constellation)
+-   [💫 N-Body](https://github.com/FreddyWordingham/Heavens)
 -   [🌒 Exoplanet Lightcurves](https://github.com/ExOplanet-Exeter/ExOEx)
 -   [✈️ Air traffic control](https://github.com/project-bluebird/Starling)
 -   [🧠 Electro Encephalography](https://github.com/FreddyWordingham/brain_wave)
