@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-Guides:
+Resources:
 
 -   [💻 Dev Environment Setup](https://github.com/FreddyWordingham/guide-Dev_environment_setup)
 -   [🌐 Static Websites](https://github.com/FreddyWordingham/Guide-Static_Websites)
@@ -10,6 +10,7 @@ Guides:
 -   [📔 Jupyter Notebooks](https://github.com/FreddyWordingham/Guide-Jupyter_Notebooks)
 -   [📬 FastAPI Web Framework](https://github.com/FreddyWordingham/Guide-FastAPI_Web_Framework)
 -   [🦀 Rust Crates](https://github.com/FreddyWordingham/Guide-Rust_Crates)
+-   [🧮 GPU Programming](https://github.com/FreddyWordingham/Guide-GPU_Programming)
 
 </td>
 <td>
