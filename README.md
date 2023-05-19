@@ -45,6 +45,7 @@ Games:
 
 Toys:
 
+-   [🔬 Particle Life](https://github.com/FreddyWordingham/ParticleLife)
 -   [✨ Nebula](https://github.com/FreddyWordingham/Nebula)
 -   [🏵 Mandelbrot](https://github.com/FreddyWordingham/Mandelbrot)
 
